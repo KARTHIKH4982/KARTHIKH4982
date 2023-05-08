@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/karthikh817021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthikh817021" height="30" width="40" /></a>
 <a href="https://instagram.com/_mr._.unique._.oo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr._.unique._.oo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uclgh15fzskoazyom-vjcuiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclgh15fzskoazyom-vjcuiw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@beastgaming-yw6jl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@beastgaming-yw6jl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
